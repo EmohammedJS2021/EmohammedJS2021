@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and gaining proficiency in web development.
 - 🌱 I’m currently learning software engineering at Thinkful.
 - 💞️ I’m looking to collaborate on GitHub.
-- 📫 How to reach me ...
+- 📫 How to reach me: https://github.com/EmohammedJS2021.
 
 <!---
 EmohammedJS2021/EmohammedJS2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
